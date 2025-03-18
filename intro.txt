@@ -10,3 +10,5 @@ modifying feature-branch 2
 modifying branch with good naming
 
 testing if ana can review pull request
+
+quero badge
